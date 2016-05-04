@@ -13,6 +13,7 @@ public class GitDemo {
 	public static void main(String[] args){
 		System.out.println(show("hello world!"));
 		print("world");
+		int b = 2;
 		int a = b;
 	}
 }
