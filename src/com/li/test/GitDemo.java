@@ -15,5 +15,6 @@ public class GitDemo {
 		print("world");
 		int b = 2;
 		int a = b;
+		System.out.println("我改的是main主函数！");
 	}
 }
