@@ -9,6 +9,7 @@ public class GitDemo {
 	
 	public static void print(String word){
 		System.out.println(show(word));
+		System.out.println("不同分支的改变");
 	}
 	
 	public static void main(String[] args){
