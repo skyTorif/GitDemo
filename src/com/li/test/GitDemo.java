@@ -3,6 +3,7 @@ package com.li.test;
 public class GitDemo {
 
 	public static String show(String word){
+		System.out.println("我改的是show函数！");
 		return word;
 	}
 	
