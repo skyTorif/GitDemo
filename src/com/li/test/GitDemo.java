@@ -19,5 +19,6 @@ public class GitDemo {
 		int a = b;
 		int c = b;
 		System.out.println("我改的是main主函数！");
+		System.out.println("实验push");
 	}
 }
