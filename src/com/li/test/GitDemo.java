@@ -2,23 +2,11 @@ package com.li.test;
 
 public class GitDemo {
 
-	public static String show(String word){
-		System.out.println("我改的是show函数！");
-		return word;
-	}
-	
-	public static void print(String word){
-		System.out.println(show(word));
-		System.out.println("不同分支的改变");
+	public static void put(){
+		System.out.println("hello world!");
 	}
 	
 	public static void main(String[] args){
-		System.out.println(show("hello world!"));
-		print("world");
-		int b = 2;
-		int a = b;
-		int c = b;
-		System.out.println("我改的是main主函数！");
-		System.out.println("实验push");
+		put();
 	}
 }
