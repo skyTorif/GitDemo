@@ -1,8 +1,5 @@
 ﻿15：03
 6-22
 15:05
-<<<<<<< Updated upstream
 origin master dogs
-=======
 we are good boys.
->>>>>>> Stashed changes
