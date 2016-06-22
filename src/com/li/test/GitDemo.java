@@ -6,6 +6,9 @@ public class GitDemo {
 		System.out.println("hello world!");
 		System.out.println("5-25");
 	}
+	public static String show(String str){
+		return str;
+	}
 	//主函数
 	public static void main(String[] args){
 		put();
